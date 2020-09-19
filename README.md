@@ -1,3 +1,3 @@
 # meugame
 Description (optional)
-- [] Fazendo containers
+- [ ] Fazendo containers
